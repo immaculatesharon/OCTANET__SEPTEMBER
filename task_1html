@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="task_1.css">
+	<title>Landing Page</title>
+</head>
+
+<body>
+	<nav>
+		<div class="heading">Landing Page</div>
+	</nav>
+
+	<!-- Content -->
+	<div class="line" id="Home">
+		<div class="side1">
+			<h1>MARVEL FANDOM</h1>
+		</div>
+		<div class="side2">
+			<img src=
+"https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/mcu-cover-e1618501441280.jpg"
+				width="500">
+		</div>
+	</div>
+
+	<section class="about" id="My Projects">
+		<div class="content">
+			<div class="title">
+				<span>MAIN TRIO</span>
+			</div>
+			<div class="boxes">
+				<div class="box">
+					<div class="topic">
+						<a href="" target="_blank">
+							CAPTAIN AMERICA
+						</a>
+					</div>
+					<p>
+						Captain America's real name is Steve Rogers, a frail young man from Brooklyn who was enhanced to the peak of human perfection by an experimental serum. Wearing a costume with stars and stripes and wielding his iconic shield, Captain America fights for the ideals of liberty and justice as an agent of the United States government.
+					</p>
+				</div>
+				<div class="box">
+
+					<div class="topic">
+						<a href="" target="_blank">
+							IRON MAN
+						</a>
+					</div>
+					<p>
+						Iron Man's real name is Tony Stark, a billionaire industrialist and weapons manufacturer. After being severely injured in a terrorist attack, Stark had to use a chest-mounted electromagnet to keep shrapnel from piercing his heart. He created a suit of armor to protect himself and fight evil as Iron Man. 
+					</p>
+				</div>
+
+				<div class="box">
+					<div class="topic">
+						<a href="" target="_blank">
+							THOR
+						</a>
+					</div>
+					<p>
+						Thor's real name is Thor Odinson, the prince of Asgard, a realm of gods in Norse mythology. He is the son of Odin, the king of Asgard, and Frigga, the queen of Asgard. Thor is a mighty warrior who wields the hammer Mjolnir, which grants him superhuman strength, speed, and durability. He is also a skilled fighter and a powerful sorcerer. 
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="contact" id="contact">
+		<div class="content">
+			<div class="title"><span>Are You A New Fan</span></div>
+			<div class="contactMenu">
+				<div class="input1">
+					<div class="label1">Your Name</div>
+					<div class="input2">
+						<input type="text"
+							placeholder="Enter your Name here">
+					</div>
+					<div class="label1">
+						<label>Your Email</label>
+					</div>
+					<div class="input2">
+						<input type="email"
+							placeholder="Enter your Email here">
+					</div>
+					<div class="label1">
+						<label>Your Password</label>
+					</div>
+					<div class="input2">
+						<input type="password"
+							placeholder="Enter your Password here">
+					</div>
+					<div class="button">
+						<button>JOIN</button>
+					</div>
+				</div>
+				<div class="input3">
+					<div class="rightside1">
+						<div class="title1">
+							<span>
+								Contact Us
+							</span>
+						</div>
+						<div class="content1">
+							A-143, 9th Floor, Buisness
+							Corporate Tower, Sector-136,
+							Chennai, Tamil Nadu
+						</div>
+						<div class="title1">
+							<span>More Information</span>
+						</div>
+						<div class="content1">
+							Marvel Fandom is a great resource for anyone who is interested in the Marvel Universe. It is a comprehensive and accurate source of information, and it is easy to use. Whether you are a casual fan or a die-hard Marvelite, Marvel Fandom is a great place to learn more about the Marvel Universe.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Footer section -->
+	<footer>
+		<div class="footer">
+			<span>
+				Created By MarvelFans
+			</span>
+		</div>
+	</footer>
+</body>
+
+</html>
